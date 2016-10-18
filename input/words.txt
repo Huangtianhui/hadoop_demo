@@ -1,0 +1,4 @@
+hello hadoop!
+this is the first hadoop file
+I love you
+I love me
